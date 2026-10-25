@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FREE CHANNEL</string>
+    <string name="retry">Retry</string>
+    <string name="error_title">Can\'t reach FREE CHANNEL</string>
+    <string name="error_offline">No internet connection. Check your network and try again.</string>
+    <string name="error_generic">The page couldn\'t be loaded. It will retry automatically.</string>
+    <string name="exit_hint">Press Back again to exit</string>
+    <string name="reloading">Reloading…</string>
+</resources>
